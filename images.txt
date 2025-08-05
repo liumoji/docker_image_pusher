@@ -7,3 +7,4 @@ xhofe/alist:latest
 redis:7.4.5-alpine
 redis:7.4.5
 --platform=linux/arm64 redis:7.4.5-alpine
+--platform=linux/arm64 bitnami/clickhouse:25.7.1-debian-12-r0
