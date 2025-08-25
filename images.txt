@@ -12,3 +12,5 @@ mysql:8
 redis:6-alpine
 eclipse-temurin:21-jre
 maven:latest
+nginx:1.29.1-alpine3.22-perl
+node:24.6.0-alpine3.22
