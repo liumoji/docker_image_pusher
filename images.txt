@@ -11,3 +11,4 @@ redis:7.4.5
 mysql:8
 redis:6-alpine
 eclipse-temurin:21-jre
+maven:latest
