@@ -1,7 +1,5 @@
 redis:7.4.6-alpine
 --platform=linux/arm64 redis:7.4.6-alpine
-redis-sentinel:latest
---platform=linux/arm64 redis-sentinel:latest
 clickhouse:25.9.5.21
 --platform=linux/arm64 clickhouse:25.9.5.21
 
