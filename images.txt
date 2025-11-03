@@ -1,5 +1,3 @@
-redis:7.4.6-alpine
---platform=linux/arm64 redis:7.4.6-alpine
 bitnami/redis-sentinel:latest
 --platform=linux/arm64 bitnami/redis-sentinel:latest
 bitnami/redis:latest
