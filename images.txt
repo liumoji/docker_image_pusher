@@ -12,4 +12,4 @@ bitnami/redis:latest
 bitnamilegacy/clickhouse:25.7.5-debian-12-r0
 --platform=linux/arm64 bitnamilegacy/clickhouse:25.7.5-debian-12-r0
 
-mysql:8.0.44-debian
+python:3.14.0
