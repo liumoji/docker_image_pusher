@@ -12,4 +12,4 @@ bitnami/redis:latest
 bitnamilegacy/clickhouse:25.7.5-debian-12-r0
 --platform=linux/arm64 bitnamilegacy/clickhouse:25.7.5-debian-12-r0
 
-python:3.14.0
+python:3.12-bullseye
