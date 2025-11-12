@@ -1,0 +1,13 @@
+redis:7.4.6-alpine
+--platform=linux/arm64 redis:7.4.6-alpine
+clickhouse:25.9.5.21
+--platform=linux/arm64 clickhouse:25.9.5.21
+
+bitnami/redis-sentinel:latest
+--platform=linux/arm64 bitnami/redis-sentinel:latest
+
+bitnami/redis:latest
+--platform=linux/arm64 bitnami/redis:latest
+
+bitnamilegacy/clickhouse:25.7.5-debian-12-r0
+--platform=linux/arm64 bitnamilegacy/clickhouse:25.7.5-debian-12-r0
