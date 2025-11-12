@@ -1,1 +1,2 @@
 node:20.19.5-bullseye
+eclipse-temurin:8u472-b08-jdk-ubi9-minimal
