@@ -15,3 +15,7 @@ nginx:1.29.1-alpine3.22-perl
 node:24.6.0-alpine3.22
 redis:7.4.6-alpine
 --platform=linux/arm64 redis:7.4.6-alpine
+
+node:20.19.5-bullseye
+eclipse-temurin:8u472-b08-jdk-ubi9-minimal
+
